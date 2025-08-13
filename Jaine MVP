@@ -1,0 +1,25 @@
+jaine-mvp/
+├── README.md
+├── package.json
+├── tsconfig.json
+├── nest-cli.json
+├── src/
+│   ├── main.ts
+│   ├── app.module.ts
+│   ├── jaine/
+│   │   ├── jaine.module.ts
+│   │   ├── modules/
+│   │   │   ├── career-coach.module.ts
+│   │   │   ├── chit-chat.module.ts
+│   │   │   ├── video-analysis.module.ts
+│   │   │   └── job-fair-recommendation.module.ts
+│   │   ├── services/
+│   │   │   ├── career-coach.service.ts
+│   │   │   ├── chit-chat.service.ts
+│   │   │   ├── video-analysis.service.ts
+│   │   │   └── job-fair-recommendation.service.ts
+│   │   ├── controllers/
+│   │   │   ├── career-coach.controller.ts
+│   │   │   ├── chit-chat.controller.ts
+│   │   │   ├── video-analysis.controller.ts
+│   │   │   └── job-fair-recommendation.controller.ts
